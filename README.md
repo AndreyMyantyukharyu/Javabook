@@ -1,1 +1,2 @@
-# Javabook. Tasks from Java textbook.
+# Java textbook. 
+Tasks from Java textbook.
